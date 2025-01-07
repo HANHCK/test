@@ -1,2 +1,11 @@
 for edit your configiration in git use the commad
 git config --global --edit
+git branch -d nameOf Branch //delete this branch if the changes in branch
+ happening in master 
+if not happening you most use commande (for transmate changes in some branch to master 
+you want to be in master and use merge some
+git branch merge nameOfBranch)
+git branch -D nameOfBranch
+to change name of your branch can use the commande git branch -M newName
+git push -u origin master (that's mean push the master repo 
+in to origin /remote repo/)
