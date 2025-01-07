@@ -1,0 +1,2 @@
+for edit your configiration in git use the commad
+git config --global --edit
